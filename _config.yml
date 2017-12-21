@@ -1,5 +1,5 @@
 ---
-booktitle: "{Proceedings of the Open Algorithm Selection Challenge}"
+booktitle: "Proceedings of the Open Algorithm Selection Challenge"
 shortname: OASC
 year: '2017'
 volume: 79
@@ -21,7 +21,7 @@ editor:
   family: Kotthoff
 title: Proceedings of Machine Learning Research
 description: |
-  {Proceedings of the Open Algorithm Selection Challenge}
+  Proceedings of the Open Algorithm Selection Challenge
     Held in Brussels, Belgium on 11-12 September 2017
 
   Published as Volume 79 by the Proceedings of Machine Learning Research on 21 December 2017.
@@ -51,7 +51,7 @@ display:
   comments: false
 email: ''
 conference:
-  name: "{Open Algorithm Selection Challenge 2017}"
+  name: "Open Algorithm Selection Challenge 2017"
   url: 
   location: Brussels, Belgium
   dates:
