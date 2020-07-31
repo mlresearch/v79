@@ -1,5 +1,5 @@
 ---
-booktitle: "Proceedings of the Open Algorithm Selection Challenge"
+booktitle: Proceedings of the Open Algorithm Selection Challenge
 shortname: OASC
 year: '2017'
 volume: 79
@@ -9,6 +9,7 @@ end: 2017-09-12
 url: http://proceedings.mlr.press
 layout: proceedings
 series: Proceedings of Machine Learning Research
+issn: 2640-3498
 id: OASC
 month: 0
 cycles: false
@@ -39,8 +40,11 @@ baseurl: "/v79"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v79
 display:
@@ -51,7 +55,7 @@ display:
   comments: false
 email: ''
 conference:
-  name: "Open Algorithm Selection Challenge 2017"
+  name: Open Algorithm Selection Challenge 2017
   url: 
   location: Brussels, Belgium
   dates:
@@ -60,5 +64,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from /Users/lawrennd/mlresearch/v79/oasc2017.bib
+# Original source:  /Users/neil/mlresearch/bibtex.bib
