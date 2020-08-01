@@ -7,6 +7,8 @@ published: 2017-12-21
 start: 2017-09-11
 end: 2017-09-12
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 layout: proceedings
 series: Proceedings of Machine Learning Research
 issn: 2640-3498
